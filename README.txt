@@ -12,8 +12,6 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Remove the Lazy Load attribute from specific images in Elementor.
 
-Remove the Lazy Load attribute from specific images in Elementor.
-
 == Description ==
 
 It adds a control to the <a href="https://wordpress.org/plugins/elementor/">Elementor</a> image widget to remove the Lazy Load attribute.
