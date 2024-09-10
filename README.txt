@@ -28,7 +28,7 @@ By removing the lazy load attribute to the first image that appears in the viewp
 
 
 == Help ==
-For any question or if something doesn't work, don't hesitate to open a thread on the <a href="https://wordpress.org/support/plugin/lazy-load-control-for-elementor/">support forum</a>
+For any question or if something doesn't work, don't hesitate to contact on this email <a href="mailto:jasminhkotadia@gmail.com">send email</a>
 
 
 == Installation ==
